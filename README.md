@@ -10,6 +10,12 @@ Anki Deck Guide:
 4. Keep things precise and clear. We don't need a mystical zen riddle in our decks.
 5. DON'T MIX COURSES IN DECKS! Here at CPA Winners we pride ourselves on organization. 
 
+We are not making whole new decks for each subject. We need to keep things focused! The most useful format for cards is cloze
+cards. Basically you highlight and anki will add code so it becomes a fill in the blank which is probably most useful. Basic is
+good for normal cards. HERE IS A FUN VIDEO FROM A MED STUDENT!
+
+https://www.youtube.com/watch?v=7K2StK7e3ww
+
 Front
   Clear simple concise question
   
