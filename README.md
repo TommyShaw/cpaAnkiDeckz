@@ -16,14 +16,14 @@ good for normal cards. HERE IS A FUN VIDEO FROM A MED STUDENT!
 
 https://www.youtube.com/watch?v=7K2StK7e3ww
 
-(cloze format)
-Front
+(cloze format):
+Front:
   Statement with fill in the blanks, try not to remove over 50% of the information. So like definition - term remove one! 
   
-Extra
+Extra:
   Where you got the information so people can track down your shit and check it easy.
  
-TAG
+TAG:
   Header of the slide or document section that you got the info from. If nothing else title of document comma page, comma paragraph
 
 Anything to big to fit onto a card just add a note reference. Sadly not everything we learn can be summarized on a single flash 
